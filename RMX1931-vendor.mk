@@ -10,9 +10,9 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1931/proprietary/system/etc/sysconfig/qti_whitelist.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/sysconfig/qti_whitelist.xml \
     vendor/realme/RMX1931/proprietary/odm/bin/hw/android.hardware.drm@1.3-service.widevine:$(TARGET_COPY_OUT_ODM)/bin/hw/android.hardware.drm@1.3-service.widevine \
     vendor/realme/RMX1931/proprietary/odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service:$(TARGET_COPY_OUT_ODM)/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service \
-	vendor/realme/RMX1931/proprietary/odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprintpay@1.0-service:$(TARGET_COPY_OUT_ODM)/bin/hw/vendor.oplus.hardware.biometrics.fingerprintpay@1.0-service \
-	vendor/realme/RMX1931/proprietary/odm/bin/hw/vendor.oplus.hardware.cryptoeng@1.0-service:$(TARGET_COPY_OUT_ODM)/bin/hw/vendor.oplus.hardware.cryptoeng@1.0-service \
-	vendor/realme/RMX1931/proprietary/odm/bin/hw/vendor.oplus.hardware.orms.ormsHalService@1.0-service:$(TARGET_COPY_OUT_ODM)/bin/hw/vendor.oplus.hardware.orms.ormsHalService@1.0-service \	
+    vendor/realme/RMX1931/proprietary/odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprintpay@1.0-service:$(TARGET_COPY_OUT_ODM)/bin/hw/vendor.oplus.hardware.biometrics.fingerprintpay@1.0-service \
+    vendor/realme/RMX1931/proprietary/odm/bin/hw/vendor.oplus.hardware.cryptoeng@1.0-service:$(TARGET_COPY_OUT_ODM)/bin/hw/vendor.oplus.hardware.cryptoeng@1.0-service \
+    vendor/realme/RMX1931/proprietary/odm/bin/hw/vendor.oplus.hardware.orms.ormsHalService@1.0-service:$(TARGET_COPY_OUT_ODM)/bin/hw/vendor.oplus.hardware.orms.ormsHalService@1.0-service \	
     vendor/realme/RMX1931/proprietary/odm/etc/acdbdata/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/Bluetooth_cal.acdb \
     vendor/realme/RMX1931/proprietary/odm/etc/acdbdata/Codec_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/Codec_cal.acdb \
     vendor/realme/RMX1931/proprietary/odm/etc/acdbdata/General_cal.acdb:$(TARGET_COPY_OUT_ODM)/etc/acdbdata/General_cal.acdb \
